@@ -1,1 +1,3 @@
-# EEG-Sleep-Classification-
+# EEG Sleep Classification
+
+Student machine learning project.
